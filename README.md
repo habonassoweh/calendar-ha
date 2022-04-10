@@ -1,13 +1,21 @@
 # calendar-ha
+<<<<<<< HEAD
 
 User Story:
 
+=======
+User Story
+>>>>>>> 3d36a7cdb21699b9f69061654ed2df2bf24ae66a
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
+<<<<<<< HEAD
 Acceptance Criteria:
 
+=======
+Acceptance Criteria
+>>>>>>> 3d36a7cdb21699b9f69061654ed2df2bf24ae66a
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
